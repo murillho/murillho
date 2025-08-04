@@ -30,5 +30,5 @@ Currently diving deep into **Python DSLs**, **C runtime systems**, and **dataflo
 
 ## ✨ Featured Projects
 
-- 🎮 [Static Logic Compiler](https://github.com/muon) — Compiles Python-like DSL into binary DAGs executed via C runtime.
-- 🧠 [Custom Shader Framework](https://github.com/godlink)
+- 🎮 [Static Logic Compiler](https://github.com/murillho/muon) — Compiles Python-like DSL into binary DAGs executed via C runtime.
+- 🧠 [Custom Shader Framework](https://github.com/murillho/godlink)
