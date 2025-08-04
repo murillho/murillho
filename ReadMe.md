@@ -24,7 +24,7 @@ Currently diving deep into **Python DSLs**, **C runtime systems**, and **dataflo
 
 ## 📈 GitHub Stats
 
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilohilas&show_icons=true&theme=radical)
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillho&show_icons=true&theme=radical)
 
 ---
 
